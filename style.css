@@ -51,6 +51,7 @@ a:hover{
 
 section{
     background-image: url(images/man-2179326_1280.jpg);
+    background-size: cover;
     height: 100vh;
     display: flex;
     justify-content: center;
